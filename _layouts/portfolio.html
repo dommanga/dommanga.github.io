@@ -79,29 +79,29 @@ layout: default
         </div>
         {% endif %}
 
-        <!-- Awards Section -->
-        {% if page.awards %}
+        <!-- Research Projects Section -->
+        {% if page.research_projects %}
         <div class="content-section">
-          <h2 class="section-title">Awards</h2>
+          <h2 class="section-title">Research Projects</h2>
           <div class="experience-group">
-            {% for award in page.awards %}
+            {% for rp in page.research_projects %}
             <div class="experience-item">
               <div class="left-column">
-                <div class="company-name">{{ award.name }}</div>
-                {% if award.type %}<div class="position">{{ award.type }}</div>{% endif %}
-                {% if award.role %}<div class="position">{{ award.role }}</div>{% endif %}
-                <div class="date">{{ award.date }}</div>
+                <div class="company-name">{{ rp.name }}</div>
+                {% if rp.type %}<div class="position">{{ rp.type }}</div>{% endif %}
+                {% if rp.role %}<div class="position">{{ rp.role }}</div>{% endif %}
+                <div class="date">{{ rp.date }}</div>
               </div>
               <div class="right-column">
-                {% if award.project %}<div class="project-title">{{ award.project }}</div>{% endif %}
-                {% if award.technologies %}
+                {% if rp.project %}<div class="project-title">{{ rp.project }}</div>{% endif %}
+                {% if rp.technologies %}
                 <div class="tech-tags">
-                  {% for tech in award.technologies %}
+                  {% for tech in rp.technologies %}
                   <span class="tech-tag">{{ tech }}</span>
                   {% endfor %}
                 </div>
                 {% endif %}
-                <div class="description">{{ award.description | markdownify }}</div>
+                <div class="description">{{ rp.description | markdownify }}</div>
               </div>
             </div>
             {% endfor %}

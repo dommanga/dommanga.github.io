@@ -45,10 +45,18 @@ experiences:
     technologies: ["VR", "Haptic Feedback", "Unity", "C#"]
     description: "Built a VR maze navigation system using haptic feedback for directional guidance. Integrated A* pathfinding with tactile vest technology to provide intuitive wayfinding cues based on user head orientation."
 
+research_projects:
+  - name: "Research Project I"
+    role: ""
+    date: "Feb 2025 - May 2025"
+    project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
+    technologies: ["Haptic Feedback", "Audio Source Separation", "HCI", "Python"]
+    description: "Designed and developed a novel haptic system that converts separated music stems into tactile feedback to enhance dance appreciation. Built a custom tactile transducer chair and conducted user studies comparing different feedback mappings, demonstrating improved musical expression recognition for both novices and experts."
+
 # awards:
 #   - name: "Undergraduate Group Research Program"
 #     role: "Team Leader"
-#     date: "4/1/2020 - 12/1/2020"
+#     date: "Feb 2025 - May 2025"
 #     project: "Payment System using Blockchain"
 #     technologies: ["React", "Node", "Smart Contract", "Docker"]
 #     description: "Developed a payment system using blockchain and won 1st prize. Participated in front-end development and led the beta testing. This project was selected for the ICON Foundation Grant Program."
