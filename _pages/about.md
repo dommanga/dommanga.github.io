@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 
 intro: |
-  Hi!👋 I'm a senior studying Computer Science and Engineering with a deep passion for human life and society. I envision a world where every individual can freely pursue their own path, and I'm continuously exploring how I can contribute to this vision through computer science and technology. Feel free to explore my website!
+  Hi! 👋 I’m a senior in Computer Science and Engineering, passionate about diversity and individuality.
+  I believe in a world where everyone is free to be themselves, to dream boldly, and to be celebrated for their uniqueness. My journey in computer science is about exploring how technology can support that vision.
+  Welcome to my site—I’d love for you to look around!
 
 experiences:
   - company: "HIS Lab"
     position: "Undergraduate Intern"
-    date: "Jun 2025 - Present"
+    date: "Jun 2025 - Aug 2025"
     project: "Digital Twin based Telepresence"
-    technologies: ["CG", "CV", "3D Reconstruction"]
-    description: "Currently joining the Telepresence project to build a baseline system for digital twins based on live-capture technology."
+    technologies: ["CG", "CV", "3D Reconstruction", "3D Pose Estimation"]
+    description: "Built baseline digital twin systems for the Telepresence project, including a static 3D reconstruction pipeline with 3D Gaussian Splatting and a real-time 3D pose estimation system."
 
   - company: "INSA Lyon"
     position: "Exchange Student"
