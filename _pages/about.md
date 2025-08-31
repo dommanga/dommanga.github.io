@@ -17,7 +17,7 @@ experiences:
     position: "Undergraduate Intern"
     date: "Jun 2025 - Aug 2025"
     project: "Digital Twin based Telepresence"
-    technologies: ["CG", "CV", "3D Reconstruction", "3D Pose Estimation"]
+    technologies: ["HCI", "CG", "CV", "3D Reconstruction", "3D Pose Estimation"]
     description: "Built baseline digital twin systems for the Telepresence project, including a static 3D reconstruction pipeline with 3D Gaussian Splatting and a real-time 3D pose estimation system."
 
   - company: "INSA Lyon"
@@ -34,7 +34,7 @@ experiences:
         technologies: ["CV", "LLM", "OCR", "Python", "Docker"]
         description: "Developed an intelligent API for automated extraction and digitization of math problems from exam papers. Led the integration of computer vision and language model technologies to enable efficient problem processing and text conversion."
       - title: "Facial Animation System"
-        technologies: ["CG", "Audio Source Separation", "BabylonJS", "TypeScript", "Python", "Docker"]
+        technologies: ["CG", "Audio Processing", "Facial Animation", "BabylonJS", "TypeScript", "Python", "Docker"]
         description: "Developed a real-time facial animation system using morph target. Designed the complete pipeline including vocal audio separation, AI-based facial motion generation, and real-time blendshape application to 3D character models for lip-sync animation."
       - title: "Lighting & Camera Director System"
         technologies: ["CG", "BabylonJS", "TypeScript"]
@@ -44,7 +44,7 @@ experiences:
     position: "Undergraduate Intern"
     date: "Jan 2023 - Feb 2023"
     project: "VR Haptic Navigation System"
-    technologies: ["VR", "Haptic Feedback", "Unity", "C#"]
+    technologies: ["HCI", "VR", "Haptics", "Unity", "C#"]
     description: "Built a VR maze navigation system using haptic feedback for directional guidance. Integrated A* pathfinding with tactile vest technology to provide intuitive wayfinding cues based on user head orientation."
 
 research_projects:
@@ -52,7 +52,7 @@ research_projects:
     role: ""
     date: "Feb 2025 - May 2025"
     project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
-    technologies: ["Haptic Feedback", "Audio Source Separation", "HCI", "Python"]
+    technologies: ["HCI", "Haptics", "Audio Processing", "Python"]
     description: "Designed and developed a novel haptic system that converts separated music stems into tactile feedback to enhance dance appreciation. Built a custom tactile transducer chair and conducted user studies comparing different feedback mappings, demonstrating improved musical expression recognition for both novices and experts."
 
 # awards:
