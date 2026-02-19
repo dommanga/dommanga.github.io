@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 
 intro: |
-  Hi! 👋 I’m a senior in Computer Science and Engineering, passionate about diversity and individuality.
+  Hi! I’m a 1st year PhD student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng). I'm working with [Prof. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction Lab](https://dommanga.github.io/).
+
   I believe in a world where everyone is free to be themselves, to dream boldly, and to be celebrated for their uniqueness. My journey in computer science is about exploring how technology can support that vision.
-  Welcome to my site—I’d love for you to look around!
 
 experiences:
   - company: "HIS Lab"
@@ -54,6 +54,13 @@ research_projects:
     project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
     technologies: ["HCI", "Haptics", "Audio Processing", "Python"]
     description: "Designed and developed a novel haptic system that converts separated music stems into tactile feedback to enhance dance appreciation. Built a custom tactile transducer chair and conducted user studies comparing different feedback mappings, demonstrating improved musical expression recognition for both novices and experts."
+
+  - name: "Research Project II"
+    role: ""
+    date: "Sep 2025 - Dec 2025"
+    project: "Effects of Non-verbal Empathy Expressions by AI Peer Counseling Avatars on User Responses"
+    technologies: ["HCI", "Facial Animation", "ThreeJS", "JavaScript", "API"]
+    description: "Avatar Peer Counselor"
 
 # awards:
 #   - name: "Undergraduate Group Research Program"

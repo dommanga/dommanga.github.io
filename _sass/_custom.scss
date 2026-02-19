@@ -77,6 +77,10 @@
   }
 }
 
+.author__desktop a {
+  display: inline;
+}
+
 // Responsive design
 @media (max-width: 768px) {
   .experience-item {

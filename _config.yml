@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jimin Lee"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Jimin Lee"
 description              : &description "Hello, I'm Jimin Lee."
 url                      : https://dommanga.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,12 +24,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jimin Lee"
-  pronouns         : # example: "she/her"  
-  bio              : "Dept. of Computer Science & Engineering, POSTECH"
-  location         : "Pohang, South Korea"
-  employer         : 
-  uri              : # URL
-  email            : "leejm21@postech.ac.kr" 
+  pronouns         : "she/her"  
+  bio              : "leejm21@postech.ac.kr"
+  location         : # "Pohang, South Korea"
+  employer         : "H2CI Lab"
+  employer_url     : ""
+  uri              : # ""
+  email            : # "leejm21@postech.ac.kr" 
 
   # Academic websites
   academia         : # URL
@@ -58,7 +59,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "08jmlee"
+  instagram        : # "08jmlee"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
