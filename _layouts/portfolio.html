@@ -36,6 +36,36 @@ layout: default
           {{ page.intro | markdownify }}
         </div>
 
+        <!-- Research Projects Section -->
+        {% if page.research_projects %}
+        <div class="content-section">
+          <h2 class="section-title">Research Projects</h2>
+          <div class="experience-group">
+            {% for rp in page.research_projects %}
+            <div class="experience-item">
+              <div class="left-column">
+                <div class="company-name">{{ rp.name }}</div>
+                {% if rp.type %}<div class="position">{{ rp.type }}</div>{% endif %}
+                {% if rp.role %}<div class="position">{{ rp.role }}</div>{% endif %}
+                <div class="date">{{ rp.date }}</div>
+              </div>
+              <div class="right-column">
+                {% if rp.project %}<div class="project-title">{{ rp.project }}</div>{% endif %}
+                {% if rp.technologies %}
+                <div class="tech-tags">
+                  {% for tech in rp.technologies %}
+                  <span class="tech-tag">{{ tech }}</span>
+                  {% endfor %}
+                </div>
+                {% endif %}
+                <div class="description">{{ rp.description | markdownify }}</div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
         <!-- Experiences Section -->
         {% if page.experiences %}
         <div class="content-section">
@@ -72,36 +102,6 @@ layout: default
                   {% endif %}
                   <div class="description">{{ exp.description | markdownify }}</div>
                 {% endif %}
-              </div>
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-        {% endif %}
-
-        <!-- Research Projects Section -->
-        {% if page.research_projects %}
-        <div class="content-section">
-          <h2 class="section-title">Research Projects</h2>
-          <div class="experience-group">
-            {% for rp in page.research_projects %}
-            <div class="experience-item">
-              <div class="left-column">
-                <div class="company-name">{{ rp.name }}</div>
-                {% if rp.type %}<div class="position">{{ rp.type }}</div>{% endif %}
-                {% if rp.role %}<div class="position">{{ rp.role }}</div>{% endif %}
-                <div class="date">{{ rp.date }}</div>
-              </div>
-              <div class="right-column">
-                {% if rp.project %}<div class="project-title">{{ rp.project }}</div>{% endif %}
-                {% if rp.technologies %}
-                <div class="tech-tags">
-                  {% for tech in rp.technologies %}
-                  <span class="tech-tag">{{ tech }}</span>
-                  {% endfor %}
-                </div>
-                {% endif %}
-                <div class="description">{{ rp.description | markdownify }}</div>
               </div>
             </div>
             {% endfor %}
