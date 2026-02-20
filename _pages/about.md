@@ -18,7 +18,7 @@ research_projects:
     date: "Feb 2025 - May 2025"
     project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
     technologies: ["Spleeter", "Python", "Tactile Transducer"]
-    description: "Developed a haptic system that using tactile transducers to convey dance movements through vibration. Explored optimal mappings between separated music stems and tactile feedback through a user study."
+    description: "Developed a haptic system using tactile transducers to convey dance movements through vibration. Explored optimal mappings between separated music stems and tactile feedback through a user study."
 
   - name: "Research Project II"
     role: ""
