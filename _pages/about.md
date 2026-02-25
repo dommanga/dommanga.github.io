@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 intro: |
-  Hi! I am a 1st year PhD student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng). I'm working with [Prof. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction Lab](https://dommanga.github.io/).
+  Hi! I am a 1st year PhD student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng). I'm working with [Dr. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction Lab](https://dommanga.github.io/).
 
   I'm interested in how technology can make human experiences richer and more expressive. I believe good design should feel human.
 
