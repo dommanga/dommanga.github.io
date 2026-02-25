@@ -24,13 +24,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jimin Lee"
-  pronouns         : "she/her"  
-  bio              : "leejm21@postech.ac.kr"
+  pronouns         : #"she/her"  
+  bio              : "Ph.D. Student in CSE @ H2CI Lab, POSTECH"
   location         : # "Pohang, South Korea"
   employer         : # "H2CI Lab"
   employer_url     : ""
   uri              : # ""
-  email            : # "leejm21@postech.ac.kr" 
+  email            : "leejm21@postech.ac.kr" 
 
   # Academic websites
   academia         : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "dommanga"
+  github           : # "dommanga"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
