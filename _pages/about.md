@@ -8,24 +8,24 @@ redirect_from:
   - /about.html
 
 intro: |
-  Hi! I am a 1st year PhD student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng), working with [Dr. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction (H2CI) Lab](https://dommanga.github.io/).
+  Hi, I am a 1st year Ph.D. student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng), where I also received my B.S. I work with [Dr. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction (H2CI) Lab](https://jiminlee.me).
 
-  I’m interested in how technology can make human experiences richer and more expressive. I believe good design should feel human. Feel free to reach out!
+  My research sits at the intersection of human-computer interaction and affective computing, with a focus on how conversational AI conveys empathy nonverbally. I'm interested in the gap between what AI ***says*** and what it ***communicates*** — and what that means for people in emotionally meaningful interactions. Feel free to reach out!
 
 research_projects:
-  - name: "Research Project I"
-    role: ""
-    date: "Feb 2025 - May 2025"
-    project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
-    technologies: ["Spleeter", "Python", "Tactile Transducer"]
-    description: "Developed a haptic system using tactile transducers to convey dance movements through vibration. Explored optimal mappings between separated music stems and tactile feedback through a user study."
-
-  - name: "Research Project II"
+  - name: ""
     role: ""
     date: "Sep 2025 - Dec 2025"
     project: "Effects of Non-verbal Empathy Expressions by AI Peer Counseling Avatars on User Responses"
     technologies: ["Three.js", "ARKit BlendShapes", "JavaScript"]
-    description: "Implemented an AI Avatar Peer Counselor system using facial animation techniques (FACS-based) that generates real-time non-verbal empathy expressions based on users' speech. This HCI research aims to verify the effects of non-verbal empathy expressions by AI avatars and explore effective strategies."
+    description: "An end-to-end HCI research project — from needfinding interviews to system design to a within-subjects user study — examining how AI avatars can express empathy nonverbally in real time, and whether that shapes how supported users feel. <span style='color: var(--global-text-color-light)'> *Advised by [Eunkyung Jo](https://eunkyungjo.com/).*"
+
+  - name: ""
+    role: ""
+    date: "Feb 2025 - May 2025"
+    project: "Enhancing Dance Appreciation through Haptic Feedback of Music Stems"
+    technologies: ["Spleeter", "Python", "Tactile Transducer"]
+    description: "Developed a haptic system using tactile transducers to convey dance movements through vibration. Explored optimal mappings between separated music stems and tactile feedback through a user study. <span style='color: var(--global-text-color-light)'> *Advised by [Seungmoon Choi](https://choism.postech.ac.kr/).*"
 
 experiences:
   - company: "HIS Lab"
@@ -33,7 +33,7 @@ experiences:
     date: "Jun 2025 - Aug 2025"
     project: "Digital Twin based Telepresence"
     technologies: ["3DGS", "Nuitrack", "Intel RealSense"]
-    description: "Built baseline digital twin systems for the Telepresence project, including a static 3D reconstruction pipeline with 3D Gaussian Splatting and a real-time 3D pose estimation system."
+    description: "Built baseline digital twin systems for the Telepresence project, including a static 3D reconstruction pipeline with 3D Gaussian Splatting and a real-time 3D pose estimation system. <span style='color: var(--global-text-color-light)'> *Advised by [Inseok Hwang](https://www.inseokhwang.com/).*"
 
   - company: "Plask"
     position: "Software Engineer Intern"
@@ -54,7 +54,7 @@ experiences:
     date: "Jan 2023 - Feb 2023"
     project: "VR Haptic Navigation System"
     technologies: ["Unity", "C#"]
-    description: "Built a VR maze navigation system using haptic feedback for directional guidance. Integrated A* pathfinding with tactile vest technology to provide intuitive wayfinding cues based on user head orientation."
+    description: "Built a VR maze navigation system using haptic feedback for directional guidance. Integrated A* pathfinding with tactile vest technology to provide intuitive wayfinding cues based on user head orientation. <span style='color: var(--global-text-color-light)'> *Advised by [Seungmoon Choi](https://choism.postech.ac.kr/).*"
 
 # awards:
 #   - name: "Undergraduate Group Research Program"
