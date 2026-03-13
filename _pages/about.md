@@ -10,7 +10,7 @@ redirect_from:
 intro: |
   Hi, I am a 1st year Ph.D. student in [Computer Science and Engineering](https://cse.postech.ac.kr/csepostech/index.do#none) at [POSTECH](https://www.postech.ac.kr/eng), where I also received my B.S. I work with [Dr. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction (H2CI) Lab](https://jiminlee.me).
 
-  My research sits at the intersection of human-computer interaction and affective computing, with a focus on how conversational AI conveys empathy nonverbally. I'm interested in the gap between what AI ***says*** and what it ***communicates*** — and what that means for people in emotionally meaningful interactions. Feel free to reach out!
+  My research examines how people experience empathy with conversational AI and the role of interaction design in shaping it. I'm interested in the gap between what AI ***says*** and what it ***communicates*** — and what that means for people in emotionally meaningful interactions. Feel free to reach out!
 
 research_projects:
   - name: ""
